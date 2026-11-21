@@ -7,3 +7,6 @@ dataset/*
 .ipynb_checkpoints/
 __pycache__/
 .vscode/
+!threshold_experiment/
+!threshold_experiment/predictions/
+!threshold_experiment/predictions/*.npz
