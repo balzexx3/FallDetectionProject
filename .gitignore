@@ -1,0 +1,9 @@
+dataset/*
+!dataset/windows_metadata.csv
+!dataset/README.md
+*.npz
+*.mp4
+*.pt
+.ipynb_checkpoints/
+__pycache__/
+.vscode/
